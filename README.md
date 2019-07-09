@@ -1,6 +1,8 @@
-# banner--淡入淡出式效果
+# banner-淡入淡出式效果
 
 🌟效果页面：[https://jabinhu.github.io/banner/](https://jabinhu.github.io/banner/)
+
+🎉代码：[https://github.com/JabinHu/banner/blob/master/index.html](https://github.com/JabinHu/banner/blob/master/index.html)
 
 🎈如有问题，请提issue。
 
